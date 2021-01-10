@@ -1,0 +1,12 @@
+{
+  "name": "pretty-native-components",
+  "displayName": "pretty-native-components",
+  "expo": {
+    "name": "pretty-native-components",
+    "slug": "pretty-native-components",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
